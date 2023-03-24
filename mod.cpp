@@ -1,0 +1,12 @@
+name = "ACE Arcade";
+picture = "logo_ace3_ca.paa";
+actionName = "GitHub";
+action = "https://github.com/Gizzmicbob/ACE3_Arcade";
+description = "ACE3_Arcade - Version 0.0.0";
+logo = "ace_arcade_icon.paa";
+logoOver = "ace_arcade_icon.paa";
+tooltip = "ACE3_Arcade";
+tooltipOwned = "ACE3_Arcade Owned";
+overview = "ACE3_Arcade aims to give more options to simplify ACE3.";
+author = "Gizzmicbob";
+overviewPicture = "ace_arcade_icon.paa";
