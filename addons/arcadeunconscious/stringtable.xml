@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="ACE Arcade">
+    <Package name="Unconscious">
+        <Key ID="STR_ACE_Arcade_Category">
+            <English>ACE Arcade</English>
+        </Key>
+        <Key ID="STR_ACE_Arcade_UnconsciousRadioVolume_DisplayName">
+            <English>Unconscious radio volume</English>
+        </Key>
+        <Key ID="STR_ACE_Arcade_UnconsciousRadioVolume_Description">
+            <English>The output volume of the radio while unconscious</English>
+        </Key>
+        <Key ID="STR_ACE_Arcade_UnconsciousSpeakingVolume_DisplayName">
+            <English>Unconscious speaking volume</English>
+        </Key>
+        <Key ID="STR_ACE_Arcade_UnconsciousSpeakingVolume_Description">
+            <English>The voice volume of other players while unconscious</English>
+        </Key>
+        <Key ID="STR_ACE_Arcade_unconsciousEnableInput_DisplayName">
+            <English>Enable Unconscious Input</English>
+        </Key>
+        <Key ID="STR_ACE_Arcade_unconsciousEnableInput_Description">
+            <English>Can the player use the radio, look around, etc., while unconscious</English>
+        </Key>
+        <Key ID="STR_ACE_Arcade_unconsciousRemovePostProcessing_DisplayName">
+            <English>Remove unconscious post processing</English>
+        </Key>
+        <Key ID="STR_ACE_Arcade_unconsciousRemovePostProcessing_Description">
+            <English>Should the player be able to see while unconscious</English>
+        </Key>
+    </Package>
+</Project>

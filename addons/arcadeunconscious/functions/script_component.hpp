@@ -1,0 +1,1 @@
+#include "\z\ace_arcade\addons\arcadeunconscious\script_component.hpp"
