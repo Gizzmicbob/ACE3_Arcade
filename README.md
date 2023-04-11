@@ -7,6 +7,7 @@ Sometimes standard ACE can be a rough time if you're a casual player. If you lik
   * Speaking Volume (ACRE & TFAR)
   * Toggle Post Processing (Black Screen/Pulsing)
   * Toggle Player Input (Look Around + Use Radio)
+  * Faster bandages/slower bandages (adjustable)
 
 *More to come*
 
