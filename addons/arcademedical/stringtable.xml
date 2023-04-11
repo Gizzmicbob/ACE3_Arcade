@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="ACE Arcade">
+    <Package name="Medical">
+        <Key ID="STR_ACE_Arcade_Medical_Category">
+            <English>Arcade Medical</English>
+        </Key>
+        <Key ID="STR_ACE_Arcade_medicalBandageTreatmentTime_DisplayName">
+            <English>Bandage treatment speed</English>
+        </Key>
+        <Key ID="STR_ACE_Arcade_medicalBandageTreatmentTime_Description">
+            <English>Modify how fast bandages (field dressing, quickclot, etc) are applied.</English>
+        </Key>
+        <Key ID="STR_ACE_Arcade_medicalBandageMinTime_DisplayName">
+            <English>The minimum bandage speed</English>
+        </Key>
+        <Key ID="STR_ACE_Arcade_medicalBandageMinTime_Description">
+            <English>The shortest time you can bandage in (seconds)</English>
+        </Key>
+    </Package>
+</Project>

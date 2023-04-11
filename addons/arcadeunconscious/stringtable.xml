@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="ACE Arcade">
     <Package name="Unconscious">
-        <Key ID="STR_ACE_Arcade_Category">
-            <English>ACE Arcade</English>
+        <Key ID="STR_ACE_Arcade_Unconscious_Category">
+            <English>Arcade Unconscious</English>
+        </Key>
+        <Key ID="STR_ACE_Arcade_Medical_Category">
+            <English>Arcade Medical</English>
         </Key>
         <Key ID="STR_ACE_Arcade_UnconsciousRadioVolume_DisplayName">
             <English>Unconscious radio volume</English>
@@ -17,7 +20,7 @@
             <English>The voice volume of other players while unconscious</English>
         </Key>
         <Key ID="STR_ACE_Arcade_unconsciousEnableInput_DisplayName">
-            <English>Enable Unconscious Input</English>
+            <English>Enable unconscious input</English>
         </Key>
         <Key ID="STR_ACE_Arcade_unconsciousEnableInput_Description">
             <English>Can the player use the radio, look around, etc., while unconscious</English>

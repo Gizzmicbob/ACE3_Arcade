@@ -1,0 +1,1 @@
+#include "\z\ace_arcade\addons\arcademedical\script_component.hpp"
