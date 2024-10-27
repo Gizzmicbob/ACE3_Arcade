@@ -1,1 +1,1 @@
-#include "\z\ace_arcade\addons\arcademedical\script_component.hpp"
+#include "\z\acearcade\addons\arcademedical\script_component.hpp"

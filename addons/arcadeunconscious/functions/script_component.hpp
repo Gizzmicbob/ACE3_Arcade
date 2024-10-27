@@ -1,1 +1,1 @@
-#include "\z\ace_arcade\addons\arcadeunconscious\script_component.hpp"
+#include "\z\acearcade\addons\arcadeunconscious\script_component.hpp"

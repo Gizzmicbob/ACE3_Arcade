@@ -1,5 +1,5 @@
 #define MAINPREFIX z
-#define PREFIX ace_arcade
+#define PREFIX acearcade
 
 #include "\z\ace\addons\main\script_version.hpp"
 
